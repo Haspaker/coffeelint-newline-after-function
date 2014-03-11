@@ -1,7 +1,7 @@
 module.exports = class NewlinesAfterFunction
 
   rule:
-    name: 'newlines_after_function'
+    name: 'newline_after_function'
     value : 1
     level : 'error'
     message : 'Wrong count of newlines between a function and other code'

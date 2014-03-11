@@ -7,4 +7,4 @@ Licensed under the MIT license.
 ###
 
 # Export the Rule handler class
-module.exports = require "./src/newline-after-function"
+module.exports = require "./src/newline_after_function"
