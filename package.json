@@ -1,0 +1,40 @@
+{
+  "name": "coffeelint-newline-after-function",
+  "version": "0.1.0",
+  "description": "Validate a newline policy after function definitiions",
+  "main": "index.js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scalableminds/coffeelint-newline-after-function.git"
+  },
+  "keywords": [
+    "coffeelint",
+    "coffeelintrule",
+    "coffee-lint",
+    "newline",
+    "rule",
+  ],
+  "author": {
+    "name": "Tom Herold",
+    "email": "tom.herold@scm.io",
+    "url": "http://scm.io"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/scalableminds/coffeelint-newline-after-function/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "homepage": "https://github.com/scalableminds/coffeelint-newline-after-function",
+  "peerDependencies": {
+    "coffeelint": "~1.1"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.0",
+  }
+}
