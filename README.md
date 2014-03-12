@@ -30,7 +30,7 @@ Insert the below configuration into *coffeelint.json* that you use for linting y
 This code will lint without errors:
 
 ```
-Class TestClass
+class TestClass
 
   foo : ->
 
@@ -44,7 +44,7 @@ Class TestClass
 But this will fail:
 
 ```
-Class TestClass
+class TestClass
 
   foo : ->
     console.log("Oh no! I have linting errors.")
@@ -60,4 +60,4 @@ By default, Coffeelint will report errors if this rule is not satisfied. You may
 
 ## License
 
-MIT © [scalable minds](http://scm.io)
+[MIT](en.wikipedia.org/wiki/MIT_License) © [scalable minds](http://scm.io)
