@@ -20,9 +20,9 @@ Insert the below configuration into *coffeelint.json* that you use for linting y
 
 ```js
 "newline_after_function": {
-    "module": "coffeelint-newline-after-function"
+    "module": "coffeelint-newline-after-function",
     "value": 1,
-    "level": "error",
+    "level": "error"
 }
 ```
 ## Example
